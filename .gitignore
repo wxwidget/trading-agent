@@ -1,0 +1,7 @@
+# Local data, account settings, and generated runs
+assets/seed/*.csv.gz
+local-config*.json
+output/
+run_*/
+__pycache__/
+*.py[cod]

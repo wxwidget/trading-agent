@@ -1,0 +1,5 @@
+numpy>=2
+pandas>=2.2
+scipy>=1.14
+requests>=2.31
+akshare>=1.16
